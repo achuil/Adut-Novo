@@ -1,0 +1,49 @@
+html,
+body {
+  height: 100%;
+  width: 100%;
+  font: 1rem/1.5 var(--font-family-sans-serif);
+  background-color: #0028ff;
+}
+a {
+  color: var(--grey);
+}
+/* Logo and header1 ...*/
+.logo {
+        margin:0; padding:65px 250px 30px 128px; width:auto;
+        background:url(novocare_Logo.gif) no-repeat right top; float:left;}
+
+
+#card-deck{
+  margin-top: 10px;
+    
+}
+/* Style the navbar links */
+#navbarColor01{
+background-color: grey;
+}
+/* color for the nav-link item */
+#navbarColor01 a{
+  color: yellow;
+}
+/*--Nav bar brand band */
+#navbar-band{
+ background-color: grey;
+  color: white;
+}
+/* Style the footer */
+#main-footer {
+  margin-top: 40px;
+  background-color: grey;
+  padding: 10px;
+  color: white;
+  text-align: center;
+
+}
+#main-footer h6{
+  color: Yellow;
+}
+
+#main-footer a{
+  color: white;
+}
